@@ -28,7 +28,7 @@ Thanks To :
 ```
 ## ⇨  Install Script On Termux
 ```
-$ https://github.com/Gffffcgg/kamar.py
+$ hit clone https://github.com/Gffffcgg/kamar.py
 $ cd kamar.py
 $ ls
 ```
