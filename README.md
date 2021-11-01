@@ -30,7 +30,7 @@ Thanks To :
 ```
 $ pkg update && upgrade  
 $ pkg install git
-$ git clone https://github.com/jukill/ninja-BF
+$ git clone https://github.com/Gffffcgg
 $ termux-setup-storage  
 $ pkg install python  
 $ pkg install git  
@@ -41,5 +41,5 @@ $ pip install futures
 ```
 ## ⇨  Run Script
 ```
-$ cd ninja-BF && python ninja.jk
+$ python kamar.py
 ```
